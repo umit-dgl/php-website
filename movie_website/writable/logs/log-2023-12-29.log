@@ -1,0 +1,27 @@
+CRITICAL - 2023-12-29 23:32:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "sayfalar/anasayfa.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sayfalar/anasayfa.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('sayfalar/anasayfa', [], true)
+ 3 APPPATH\Controllers\Anasayfa.php(9): view('sayfalar/anasayfa')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-29 23:32:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "sayfalar/anasayfa.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sayfalar/anasayfa.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('sayfalar/anasayfa', [], true)
+ 3 APPPATH\Controllers\Anasayfa.php(9): view('sayfalar/anasayfa')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-29 23:56:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "tema/footer.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tema/footer.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('tema/footer', [], true)
+ 3 APPPATH\Controllers\Anasayfa.php(9): view('tema/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

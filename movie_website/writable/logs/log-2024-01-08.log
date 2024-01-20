@@ -1,0 +1,153 @@
+INFO - 2024-01-08 19:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:20:43 --> CSRF token verified.
+INFO - 2024-01-08 19:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:38:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:39:22 --> CSRF token verified.
+INFO - 2024-01-08 19:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:39:22 --> ErrorException: Redefinition of parameter $aciklama
+in APPPATH\Models\PanelModel.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-01-08 19:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:40:12 --> CSRF token verified.
+INFO - 2024-01-08 19:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:40:12 --> ArgumentCountError: Too few arguments to function App\Models\PanelModel::veri_ekle(), 4 passed in C:\wamp64\www\movie_website\app\Controllers\Panel.php on line 122 and exactly 5 expected
+in APPPATH\Models\PanelModel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(122): App\Models\PanelModel->veri_ekle('asdad', 'asdad', 'asdadasddas', '1704742812_04ab8103fda88a1a557b.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Panel->kayit_ekle()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-08 19:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:40:35 --> CSRF token verified.
+INFO - 2024-01-08 19:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:40:35 --> ArgumentCountError: Too few arguments to function App\Models\PanelModel::veri_ekle(), 4 passed in C:\wamp64\www\movie_website\app\Controllers\Panel.php on line 122 and exactly 5 expected
+in APPPATH\Models\PanelModel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(122): App\Models\PanelModel->veri_ekle('asdad', 'asdad', 'asdadasddas', '1704742835_ae9177a06382b88a6c83.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Panel->kayit_ekle()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-08 19:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:41:53 --> CSRF token verified.
+INFO - 2024-01-08 19:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:41:53 --> ArgumentCountError: Too few arguments to function App\Models\PanelModel::veri_ekle(), 4 passed in C:\wamp64\www\movie_website\app\Controllers\Panel.php on line 122 and exactly 5 expected
+in APPPATH\Models\PanelModel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(122): App\Models\PanelModel->veri_ekle('asdad', 'asdad', 'asdadasddas', '1704742913_b9940fd77ed6a452fdb5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Panel->kayit_ekle()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-08 19:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:44:18 --> CSRF token verified.
+INFO - 2024-01-08 19:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:44:18 --> ArgumentCountError: Too few arguments to function App\Models\PanelModel::veri_ekle(), 4 passed in C:\wamp64\www\movie_website\app\Controllers\Panel.php on line 122 and exactly 5 expected
+in APPPATH\Models\PanelModel.php on line 12.
+ 1 APPPATH\Controllers\Panel.php(122): App\Models\PanelModel->veri_ekle('asdad', 'asdad', 'asdadasddas', '1704743058_d72dba91da860bffe15d.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Panel->kayit_ekle()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Panel))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-08 19:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:46:29 --> CSRF token verified.
+INFO - 2024-01-08 19:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:48:41 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:48:41 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:48:41 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:48:42 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:48:42 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:48:42 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-08 19:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-08 19:49:46 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:49:46 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-08 19:49:46 --> ErrorException: Undefined offset: 0
+in APPPATH\Controllers\Anasayfa.php on line 109.
+ 1 APPPATH\Controllers\Anasayfa.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offset: 0', 'C:\\wamp64\\www\\movie_website\\app\\Controllers\\Anasayfa.php', 109, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Anasayfa->incele('1704743189_265fe198dffd2f7a6d81.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Anasayfa))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-08 19:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 19:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 20:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 20:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 20:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 20:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 20:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-08 20:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
